@@ -7,6 +7,11 @@ while counter < 3:
 	pass
 print("Done printing the Tic-Tac-Toe\n\n\n")
 
+x=[1,2,3,4,5]
+x_squared = [item ** 2 for item in x]
+print(x_squared)
+
+
 #Assignment 2
 first_name = input("Enter First Name ")
 last_name = input("Enter Last name ")
