@@ -9,3 +9,5 @@ bin/*
 
 #Compiled files
 *.pyc
+
+challenge/
