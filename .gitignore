@@ -6,3 +6,6 @@ diditalocean/credentials.py
 lib/*
 bin/*
 *.csv
+
+#Compiled files
+*.pyc
