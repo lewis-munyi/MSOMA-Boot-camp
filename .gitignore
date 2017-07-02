@@ -1,6 +1,6 @@
 #Add all credentials.py files
 credentials.py
-diditalocean/credentials.py
+digitalocean/credentials.py
 
 #Ignore the compiled virtualenv library files
 lib/*
